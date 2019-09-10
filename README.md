@@ -37,3 +37,5 @@ The ability to download the app on a linux device running Ubuntu using Firefox Q
 
 Download the web app using one of the above methods, disconnect your device from the internet, and open the web app on your desktop or home screen.
 
+Make sure your microphone is plugged in before using, otherwise you will get an error that your microphone is not found.
+
