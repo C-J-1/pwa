@@ -1,5 +1,5 @@
 # pwa
-A repository for the exploration of offline HTML5 Application Cache and Progressive Web Apps.
+A repository for the exploration of offline Progressive Web Apps.
 
 # Set up for development and testing
 Clone the repository to your desktop, open a command prompt, travel to the directory that contains index.html and type:
@@ -12,7 +12,7 @@ Use this when testing and developing so you don't need to add changes to the git
 
 
 # Downloading the Web App
-First go to the home page: https://c-j-1.github.io/HTML5WebApp/
+First go to the home page: https://c-j-1.github.io/pwa/
 
 To download the Web App, there are different methods based on different browsers or devices. The ability to download the app will not be available if it has already been been downloaded. Uninstall the app to regain the ability to download it.
 
